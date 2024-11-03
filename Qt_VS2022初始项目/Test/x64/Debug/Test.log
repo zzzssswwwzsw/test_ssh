@@ -1,0 +1,6 @@
+﻿   Qt/MSBuild: 3.3.0.13
+   Qt: 6.5.3
+  Test.cpp
+  main.cpp
+  moc_Test.cpp
+  Test.vcxproj -> E:\VS2022_QtProject\Test\x64\Debug\Test.exe
